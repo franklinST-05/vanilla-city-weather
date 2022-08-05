@@ -1,7 +1,7 @@
 # CityWeather
 CityWeather is a project where the user will be able to obtain information about climates of any desired city
 
-<img src="./img/display.png" width="500">
+<img src="./img/display.png">
 
 ### First Steps
 - got to the [hgbrasil](https://hgbrasil.com/status/weather/) and login

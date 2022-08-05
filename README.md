@@ -1,5 +1,5 @@
-# dev.finance
-Dev.Finance is a project to control personal accounts with control of receipts and payments, as well as calculation of totals, created by rocketseat.
+# CityWeather
+CityWeather is a project where the user will be able to obtain information about climates of any desired city
 
 <img src="./img/display.png" width="500">
 
